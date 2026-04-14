@@ -2,6 +2,9 @@
 
 This repository contains the Figma design for the Zen Chess web application.
 
+## 💻 Project Code
+https://github.com/your-friend-repo-link
+
 ## 🎨 Figma Design Link
 
 https://www.figma.com/design/vLnfkeVJhlPKkOtHsV5BvA/WebTech-ZENCHESS-figma?node-id=0-1&t=Su9SuBEHoZ9VbH8s-1

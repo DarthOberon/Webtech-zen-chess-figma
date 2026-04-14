@@ -4,7 +4,7 @@ This repository contains the Figma design for the Zen Chess web application.
 
 ## 🎨 Figma Design Link
 
-[(https://www.figma.com/design/vLnfkeVJhlPKkOtHsV5BvA/WebTech-ZENCHESS-figma?node-id=0-1&t=Su9SuBEHoZ9VbH8s-1)]
+(https://www.figma.com/design/vLnfkeVJhlPKkOtHsV5BvA/WebTech-ZENCHESS-figma?node-id=0-1&t=Su9SuBEHoZ9VbH8s-1)
 
 ## 📌 Screens Included
 

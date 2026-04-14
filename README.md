@@ -1,4 +1,4 @@
-# Zen Chess – UI/UX Design
+# ♟️ Zen Chess – UI/UX Design (Figma)
 
 This repository contains the Figma design for the Zen Chess web application.
 
